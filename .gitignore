@@ -1,0 +1,76 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder containing launch.json and settings.json
+.vscode/
+
+# Flutter/Dart related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android related
+**/android/**/generated/
+**/android/gen/
+**/android/out/
+*.jks
+*.keystore
+*.apk
+*.ap_
+*.aab
+*.dex
+cap_debug_key.jks
+
+# iOS related
+**/ios/DerivedData/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.[mh]
+**/ios/Runner/config/xcconfigs/sdk.xcconfig
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/.symlinks/
+**/ios/Flutter/TemporaryGeneratedFile_*.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Frameworks/
+**/ios/Runner/config/xcconfigs/flutter.xcconfig
+
+# Web related
+**/web/index.html
+
+# Local environment
+.env*
+
+# Symbolic links
+.symbolic_links/
+
+# External packages/plugins
+.plugin/
+
+# Agent specific
+.gemini/
+mockups/
