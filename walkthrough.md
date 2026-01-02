@@ -28,13 +28,13 @@ The `AndroidManifest.xml` files have been verified to contain **zero** `<uses-pe
 
 ### App Mockups
 ````carousel
-![Home Screen Mockup](/assets/mockup_home.png)
+![Home Screen Mockup](/mockups/mockup_home.png)
 <!-- slide -->
-![Add Habit Mockup](/assets/mockup_add_habit.png)
+![Add Habit Mockup](/mockups/mockup_add_habit.png)
 <!-- slide -->
-![Settings & Privacy Mockup](/assets/mockup_settings_privacy.png)
+![Settings & Privacy Mockup](/mockups/mockup_settings_privacy.png)
 <!-- slide -->
-![Promotional Branding](/c:/Users/home/Desktop/Micro Habit Tracker/assets/mockup_promotional.png)
+![Promotional Branding](/c:/Users/home/Desktop/Micro Habit Tracker/mockups/mockup_promotional.png)
 ````
 
 ## Code Highlights

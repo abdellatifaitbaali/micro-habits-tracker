@@ -10,10 +10,10 @@ A privacy-focused, zero-permission Flutter app for building lasting routines. Th
 - **Performance**: 60FPS smooth transitions and optimized keyboard focus handling.
 
 ## 📱 App Mockups
-![Home Screen](assets/mockup_home.png)
-![Add Habit](assets/mockup_add_habit.png)
-![Settings & Privacy](assets/mockup_settings_privacy.png)
-![Promotional](assets/mockup_promotional.png)
+![Home Screen](mockups/mockup_home.png)
+![Add Habit](mockups/mockup_add_habit.png)
+![Settings & Privacy](mockups/mockup_settings_privacy.png)
+![Promotional](mockups/mockup_promotional.png)
 
 ## 🛠️ Tech Stack
 - **Framework**: Flutter (Dart)
@@ -25,7 +25,8 @@ A privacy-focused, zero-permission Flutter app for building lasting routines. Th
 - `lib/data/`: Database helpers and state management.
 - `lib/ui/`: All app screens and components.
 - `compliance/`: Privacy Policy and Data Safety documentation.
-- `assets/`: App icon and marketing mockups.
+- `assets/`: App icon.
+- `mockups/`: App marketing mockups.
 
 ## ⚖️ Compliance
 This app includes a **"Delete All My Data"** feature in the settings to ensure users have full control over their local database, satisfying Google's user data deletion requirements.
