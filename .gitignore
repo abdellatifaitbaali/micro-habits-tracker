@@ -41,7 +41,7 @@ migrate_working_dir/
 *.aab
 *.dex
 cap_debug_key.jks
-/*.zip
+*.zip
 
 # iOS related
 **/ios/DerivedData/
