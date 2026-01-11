@@ -1,0 +1,21 @@
+
+Running Gradle task 'bundleRelease'...                          
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'C:\Users\home\Desktop\Micro Habits Tracker\android\app\build.gradle' line: 11
+
+* What went wrong:
+A problem occurred evaluating project ':app'.
+> Malformed \uxxxx encoding.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 10s
+Running Gradle task 'bundleRelease'...                             10.9s
+Gradle task bundleRelease failed with exit code 1
