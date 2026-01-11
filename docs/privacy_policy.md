@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # Privacy Policy for Micro-Habits Tracker
 
 **Effective Date: December 27, 2025**
