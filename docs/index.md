@@ -1,8 +1,3 @@
----
-layout: default
-title: Micro-Habits Tracker Documentation
----
-
 # Micro-Habits Tracker Documentation
 
 Welcome to the official documentation for the **Micro-Habits Tracker**.
