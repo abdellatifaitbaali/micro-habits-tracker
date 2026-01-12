@@ -1,7 +1,3 @@
----
-layout: default
-title: Data Safety
----
 # Google Play Console: Data Safety Form Answers
 
 Follow this sequence to satisfy the 2025 Google Play Policy for the Micro-Habits Tracker:
